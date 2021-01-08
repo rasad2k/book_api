@@ -7,7 +7,7 @@ Available endpoints
 | Endpoint                      | Description                          |
 |-------------------------------|--------------------------------------|
 | /api/v1/books     (GET)       | Get all the books                    |
-| /api/v1/book/:id  (GET)       | Get the book with given id           |
+| /api/v1/book/:id  (GET)       | Get the book with the given id           |
 | /api/v1/book      (POST)      | Add a new book                       |
 | /api/v1/book/:id  (DELETE)    | Delete the book with the given id    |
 
