@@ -1,4 +1,5 @@
-# Book API to practice Go Fiber
+# Book API 
+A book API to practice Go Fiber
 
 ## Usage
 
